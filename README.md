@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Saif Shinkar 👋
+- 💻 I’m fluent with programming on C, Python, Java, Verilog, and MIPS.
+- 🌱 I’m currently learning HTML, Django, and CSS
+- 🎓 San Diego State University Class of 2024
 
 <!--
 **Shinkarr/Shinkarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
