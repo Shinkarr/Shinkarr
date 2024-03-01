@@ -1,6 +1,6 @@
 ### Hi, I'm Saif Shinkar 👋
 
-- 💻 I’m fluent with programming on C, Python, Java, Verilog, HTML, CSS, and MIPS. 
+- 💻 I’m fluent with programming on C, Python, Java, Verilog, HTML, CSS, SQL, and MIPS. 
 - 🎓 San Diego State University Class of 2024
 
 <!--
